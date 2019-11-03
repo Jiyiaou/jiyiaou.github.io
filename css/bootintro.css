@@ -1,0 +1,10 @@
+.inter{
+    position: relative;
+    top: 10px;
+}
+.inter h2{
+    margin: 10px 50px 0px 50px;
+}
+.inter p{
+    padding: 10px 100px 50px 100px;
+}

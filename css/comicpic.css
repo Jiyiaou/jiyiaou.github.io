@@ -1,0 +1,13 @@
+.comicpic{
+    display: inline;
+    padding: 10px;
+    margin: 10px;
+}
+.comicpic img{
+    width: 20%;
+    height: 20%;
+    margin: 5px;
+}
+.comicpic p{
+    margin: 10px;
+}
